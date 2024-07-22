@@ -1,6 +1,6 @@
 # Emoji Lover
 
-<img src="[https://github.com/user-attachments/assets/ea45794a-b5ea-46eb-aeee-37633f1976e8]" alt="screenshot" width="25%" height="auto">
+<img src="Screenshot 2024-07-22 at 4.10.13 pm.png" alt="screenshot" width="25%" height="auto">
 
 This is a simple Emoji selector app built following a Swift and Swift UI tutorial. 
 
